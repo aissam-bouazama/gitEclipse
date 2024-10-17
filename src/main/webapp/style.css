@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.titol{
+	font-size: 30px;
+}
+p{
+	font-size: 30px;
+}
+p::first-letter {
+	font-size: 45px;
+}
