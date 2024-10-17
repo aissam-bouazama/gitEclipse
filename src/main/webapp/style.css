@@ -4,8 +4,10 @@
 	color: red;
 }
 p{
-	font-size: 30px;
+	font-size: 35px;
+	color:red;
 }
 p::first-letter {
 	font-size: 50px;
+	
 }
